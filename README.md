@@ -1,0 +1,2 @@
+# NextMD
+NextMD是一款功能完整的Markdown编辑器应用，提供直观的用户界面，支持Markdown和HTML之间的双向转换，以及丰富的编辑功能。
