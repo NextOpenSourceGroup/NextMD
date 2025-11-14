@@ -1,0 +1,4 @@
+markdown==3.4.1
+mistune==2.0.4
+beautifulsoup4==4.11.1
+python-dotenv==1.0.0
