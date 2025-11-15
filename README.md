@@ -171,4 +171,4 @@ NextMD内置日志系统，记录程序运行状态和错误信息：
 
 如有任何问题或建议，请随时联系开发者。
 
-© 2023 NextMD团队 - 一款功能强大的Markdown编辑器。
+© 2025 NextOpenSourceGroup - 一款功能强大的Markdown编辑器。
